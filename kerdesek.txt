@@ -5,6 +5,13 @@ b) git blame [file]
 c) git history
 d) git past
 
+Lázár Boldizsár
+Melyik commandok szükségesek a git konfigurálásához?
+a)git config user.name "név"
+b)git init
+c)git add
+d)git config user.email "e-mail cím"
+
 Név: Szomor Levente Péter
 Kérdés: Mi a README.md fájl szerepe a GitHubon?
 
@@ -23,9 +30,3 @@ $ git command --help
 $ git diff EZ A JÓ VÁLASZ
 $ git branch
 $ git add [file]
-
-Tóth Balázs - Hogyan tudod megadni a felhasználó neved egy repóba? 
-1. git add user.name "nev"; (Helyes) 
-2. git config --global user.name "nev"; 
-3. git config -global user.name "nev";
-4. Nem lehet megadni nevet;
