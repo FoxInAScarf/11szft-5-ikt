@@ -58,7 +58,12 @@ Pesek Patrik
 4. Gites segítség kérérs: git command --help
 
 Kun-Szulyák Róbert
-IDK
+Melyik parancsot használjuk a távoli tároló lemásolásához a helyi gépre a Git-ben?
+
+A) git pull
+B) git checkout
+C) git clone (helyes)
+D) git commit
 
 
 A felsoroltak közül, melyeknek vannak kapcsolói? (Nagy-Erdei Móric) 
