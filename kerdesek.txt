@@ -66,3 +66,11 @@ A felsoroltak közül, melyeknek vannak kapcsolói? (Nagy-Erdei Móric)
   b. git branch
   c. git tag
   d. git init
+
+
+Major Barnabás
+    Mit csinál a git status parancs?
+        x Megjeleníti a repository státuszát
+        x Megjeleníti a github jelenlegi állapotát
+        + Megjeleníti a repóban lévő új fájlok és a változtatások listáját
+        x Megjeleníti a lokális változtatásokat a repóban
